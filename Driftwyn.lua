@@ -3,8 +3,6 @@ local Games = {
 
     [81440632616906] = "https://raw.githubusercontent.com/Driftwyn/Dig-To-Earths-Corev1/refs/heads/main/.lua",
 
-    [107778070777162] = "https://raw.githubusercontent.com/Driftwyn/Steal-A-Eggv1/refs/heads/main/.lua",
-
     [132239307080610] = "https://raw.githubusercontent.com/Driftwyn/Deepfishingv1/refs/heads/main/.lua",
 }
 
